@@ -1,2 +1,2 @@
 # quant_scripts
- study quant scripts
+ quant / datascience / python scripts examples
